@@ -12,35 +12,23 @@ All materials are provided in both PDF and Word formats.
 
 ---
 
-## 📂 Repository Structure
-
-```
-/fold-formal-series/
-├── metadata/                      # Project metadata for DOI and publication
-├── papers/
-│   ├── pdf/                       # PDF versions of all papers
-│   └── word/                      # Word (.docx) source versions
-├── preface/                      # Preface document for the formal series
-├── LICENSE
-└── README.md
-```
-
 ---
 
-## 📘 Papers
+## 📑 Citation and Access
 
-| Problem | Title |
-|--------|-------|
-| 1. ABC Conjecture | `ABC_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 2. Birch and Swinnerton-Dyer | `BSD_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 3. Collatz Conjecture | `Collatz_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 4. Hodge Conjecture | `Hodge_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 5. Navier-Stokes Regularity | `NavierStokes_Regularity_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 6. P vs NP | `P_vs_NP_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 7. Prime Modulation | `Prime_Modulation_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 8. Riemann Hypothesis | `Riemann_Hypothesis_Math_Reconstruction_Tsuchiya_2025.pdf` |
-| 9. Voevodsky Standard Conjectures | `Voevodsky_Standard_Conjectures_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
-| 10. Yang–Mills Mass Gap | `YangMills_MassGap_Formal_Reconstruction_H_Tsuchiya_2025.pdf` |
+| # | Title | PDF | Word | DOI |
+|--|-------------------------------|------|------|------|
+| 1 | ABC Conjecture | [📄 PDF](./pdf/ABC_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/ABC_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15613837](https://doi.org/10.5281/zenodo.15613837) |
+| 2 | BSD Conjecture | [📄 PDF](./pdf/BSD_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/BSD_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15613930](https://doi.org/10.5281/zenodo.15613930) |
+| 3 | Collatz Conjecture | [📄 PDF](./pdf/Collatz_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/Collatz_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15613950](https://doi.org/10.5281/zenodo.15613950) |
+| 4 | Hodge Conjecture | [📄 PDF](./pdf/Hodge_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/Hodge_Conjecture_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15613965](https://doi.org/10.5281/zenodo.15613965) |
+| 5 | Navier–Stokes Regularity | [📄 PDF](./pdf/NavierStokes_Regularity_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/NavierStokes_Regularity_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15613986](https://doi.org/10.5281/zenodo.15613986) |
+| 6 | P vs NP | [📄 PDF](./pdf/P_vs_NP_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/P_vs_NP_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15614002](https://doi.org/10.5281/zenodo.15614002) |
+| 7 | Prime Modulation & Zeta | [📄 PDF](./pdf/Prime_Modulation_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/Prime_Modulation_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15614025](https://doi.org/10.5281/zenodo.15614025) |
+| 8 | Riemann Hypothesis | [📄 PDF](./pdf/Riemann_Hypothesis_Math_Reconstruction_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/Riemann_Hypothesis_Mathematically_Reinforced_Tsuchiya.docx) | [10.5281/zenodo.15614053](https://doi.org/10.5281/zenodo.15614053) |
+| 9 | Voevodsky Conjectures | [📄 PDF](./pdf/Voevodsky_Standard_Conjectures_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/Voevodsky_Standard_Conjectures_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15614074](https://doi.org/10.5281/zenodo.15614074) |
+| 10 | Yang–Mills Mass Gap | [📄 PDF](./pdf/YangMills_MassGap_Formal_Reconstruction_H_Tsuchiya_2025.pdf) | [📝 DOCX](./papers/YangMills_MassGap_Formal_Reconstruction_H_Tsuchiya_2025.docx) | [10.5281/zenodo.15614088](https://doi.org/10.5281/zenodo.15614088) |
+
 
 ---
 
