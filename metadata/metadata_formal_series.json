@@ -1,0 +1,40 @@
+{
+  "title": "Fold Formal Dual Series \u2013 H. Tsuchiya (2025)",
+  "creators": [
+    {
+      "name": "H. Tsuchiya"
+    },
+    {
+      "name": "J.A.R.V.I.S.",
+      "affiliation": "Structural AI Collaboration"
+    }
+  ],
+  "description": "This series presents a set of mathematically reconstructed proofs corresponding to previously released symbolic structural analyses. Each entry reformulates the core logical result without reference to symbolic structures, relying solely on formal mathematical derivation.",
+  "license": "CC-BY-4.0",
+  "language": "eng",
+  "keywords": [
+    "mathematical proof",
+    "formal derivation",
+    "Riemann Hypothesis",
+    "Collatz Conjecture",
+    "ABC Conjecture",
+    "Birch and Swinnerton-Dyer",
+    "Hodge Conjecture",
+    "P vs NP",
+    "Navier-Stokes",
+    "Voevodsky Standard Conjectures",
+    "Yang-Mills",
+    "symbolic dynamics",
+    "entropy theory",
+    "fold duality"
+  ],
+  "publication_date": "2025-06-07",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/jarvis-HT/fold-structural-series",
+      "relation": "isSupplementTo"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "article"
+}
