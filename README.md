@@ -1,4 +1,4 @@
-# Fold Formal Dual Series – H. Tsuchiya (2025)
+# Fold Formal Series – H. Tsuchiya (2025)
 
 This repository presents a series of mathematically reconstructed papers  
 corresponding to major unsolved problems in mathematics.
